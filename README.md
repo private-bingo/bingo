@@ -1,0 +1,2 @@
+# bingo
+made for private
